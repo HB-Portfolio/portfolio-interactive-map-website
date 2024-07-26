@@ -1,5 +1,9 @@
 # Inglewood Interactive Map
 
+[Visit The Interactive Map Website](https://interactive-map-website.vercel.app)
+
+**Author:** Hendrich Buhrer 
+
 ## Project Description
 
 This project features an interactive, non-linear map of the Inglewood neighborhood in Calgary, designed for various user groups like tourists, students, and shoppers. It provides an engaging way to navigate and discover the neighborhood through rich, interactive content.
@@ -28,4 +32,3 @@ To deliver an easy-to-navigate, informative interactive map that enhances the ex
 - **Mapbox GL & Vue-Leaflet**: For rendering interactive maps.
 - **TailwindCSS & PostCSS**: For styling.
 - **Leaflet**: For additional mapping features.
-# portfolio-interactive-map-website
