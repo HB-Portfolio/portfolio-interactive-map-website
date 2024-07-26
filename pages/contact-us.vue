@@ -1,0 +1,4 @@
+<template>
+    <ContactInfo />
+    <ContactForm />
+</template>
